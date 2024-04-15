@@ -1,0 +1,40 @@
+<html>
+
+<head>
+    <meta charset = "utf-8">
+    <meta name = "resume,履歷表">
+    <title> 履歷表 </title>
+</head>
+
+<body background = "../img/pretty.jpg">
+    <center><font size=7> 履歷表 </font></center>
+    <p>
+    <font size=5>
+        <b>一、個人資料：</b>
+        <p>
+    </font>
+    <center>
+    <Table border="1">       
+        <tr><th>姓名</th><td>梁惟茵</td></tr>
+        <tr><th>性別</th><td>女</td></tr>
+        <tr><th>年齡</th><td>20歲</td></tr>
+        <tr><th>出生日期</th><td> 2003/12/24 </td></tr>
+        <tr><th>E-mail</th><td>a1113326@mail.nuk.edu.tw</td></tr>
+        <tr><th>個性</th><td>細心</td></tr>
+        <tr><th>興趣與專長</th><td>聽音樂、追星</td></tr>
+        <tr><th>學歷</th><td>花蓮縣花蓮市中華國小</br>花蓮縣花蓮市花崗國中</br>花蓮縣花蓮市花蓮女中</br>高雄市楠梓區國立高雄大學</br></td></tr>
+    </table> 
+    </center>
+
+    <font size=5>
+        <b>二、期許：</b>
+        <p>
+    </font>
+    <font size=3>
+        希望自己能成為更自律的人，做任何事情都能有規劃地去做，也希望能夠學好其他的語言，未來做更多想做的事情。
+        有夢最美，築夢踏實!
+        <p>
+    </font>
+</body>
+
+</html>
